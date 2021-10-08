@@ -1,8 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
+<<<<<<< HEAD
+    <list default="true" id="a266b6c4-88b0-48da-972f-dcf09f62ee7d" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/VTB.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/VTB.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_08_10_2021_18_50__Changes_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_08_10_2021_18_50__Changes_.xml" afterDir="false" />
+=======
     <list default="true" id="a266b6c4-88b0-48da-972f-dcf09f62ee7d" name="Changes" comment="Add data">
+>>>>>>> 5ea70a859952d2d84c2c5b04a568887573eda8f9
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/VTB_data/VTB_data/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/VTB_data/VTB_data/urls.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,13 +28,13 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/venv" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PythonContentEntriesConfigurable" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="a266b6c4-88b0-48da-972f-dcf09f62ee7d" name="Changes" comment="" />
-      <changelist id="" name="New changelist" comment="" />
       <created>1633705956273</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
@@ -60,6 +67,25 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="96" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1633708969791">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="96" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.680@0.0.1280.680" timestamp="1633708969791" />
+    <state x="421" y="95" key="FileChooserDialogImpl" timestamp="1633708946988">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="421" y="95" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1633708946988" />
+    <state x="142" y="0" key="SettingsEditor" timestamp="1633709066901">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="142" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1633709066901" />
+    <state x="458" y="255" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1633709490879">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="458" y="255" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1280.680@0.0.1280.680" timestamp="1633709490879" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Add data" />
