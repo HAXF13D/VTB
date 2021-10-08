@@ -10,8 +10,18 @@ class User(models.Model):
     name = models.CharField(max_length=150, db_column='name')
     surname = models.CharField(max_length=250, db_column='surname')
 
+    class Meta:
+        db_table = 'User'
+
+class Categories(models.Model):
+    name = models.CharField(max_length=250, unique=True)
+
+    class Meta:
+        managed = True
+        db_table = 'Category'
+
 class File(models.Model):
-    category = models.CharField(max_length=250, db_column='category')
+    category = models.ForeignKey(Categories, on_delete=models.CASCADE)
     _data = models.TextField(
         db_column='data',
         blank=True)
@@ -23,3 +33,7 @@ class File(models.Model):
         return base64.decodestring(self._data)
 
     data = property(get_data, set_data)
+
+    class Meta:
+        managed = True
+        db_table = 'File'
