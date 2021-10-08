@@ -11,6 +11,7 @@ class User(models.Model):
     surname = models.CharField(max_length=250, db_column='surname')
 
     class Meta:
+        managed = True
         db_table = 'User'
 
 class Categories(models.Model):
