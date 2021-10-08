@@ -1,15 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-<<<<<<< HEAD
-    <list default="true" id="a266b6c4-88b0-48da-972f-dcf09f62ee7d" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/VTB.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/VTB.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_08_10_2021_18_50__Changes_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_08_10_2021_18_50__Changes_.xml" afterDir="false" />
-=======
-    <list default="true" id="a266b6c4-88b0-48da-972f-dcf09f62ee7d" name="Changes" comment="Add data">
->>>>>>> 5ea70a859952d2d84c2c5b04a568887573eda8f9
+    <list default="true" id="583d48b1-c300-4161-a2fc-6718349500ed" name="Changes" comment="Add 2 func">
+      <change afterPath="$PROJECT_DIR$/VTB_data/GIN/migrations/0001_initial.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/VTB_data/GIN/migrations/0002_auto_20211008_2242.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/VTB_data/VTB_data/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/VTB_data/VTB_data/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/VTB_data/GIN/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/VTB_data/GIN/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/VTB_data/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/VTB_data/db.sqlite3" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,6 +66,10 @@
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Add data" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add data" />
+  </component>
   <component name="WindowStateProjectService">
     <state x="96" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1633708969791">
       <screen x="0" y="0" width="1280" height="680" />
@@ -86,9 +87,5 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="458" y="255" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1280.680@0.0.1280.680" timestamp="1633709490879" />
-  </component>
-  <component name="VcsManagerConfiguration">
-    <MESSAGE value="Add data" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add data" />
   </component>
 </project>
