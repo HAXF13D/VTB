@@ -1,13 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a266b6c4-88b0-48da-972f-dcf09f62ee7d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/VTB_data/VTB_data/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/VTB_data/VTB_data/asgi.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/VTB_data/VTB_data/settings.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/VTB_data/VTB_data/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/VTB_data/VTB_data/wsgi.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/VTB_data/manage.py" afterDir="false" />
+    <list default="true" id="a266b6c4-88b0-48da-972f-dcf09f62ee7d" name="Changes" comment="Add data">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -39,6 +33,21 @@
       <option name="presentableId" value="Default" />
       <updated>1633705956273</updated>
     </task>
+    <task id="LOCAL-00001" summary="Add data">
+      <created>1633708252270</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1633708252270</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Add data">
+      <created>1633708555580</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1633708555580</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -51,5 +60,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Add data" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add data" />
   </component>
 </project>
