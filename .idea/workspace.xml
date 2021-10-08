@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a266b6c4-88b0-48da-972f-dcf09f62ee7d" name="Changes" comment="" />
+    <list default="true" id="a266b6c4-88b0-48da-972f-dcf09f62ee7d" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/VTB_data/VTB_data/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/VTB_data/VTB_data/asgi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/VTB_data/VTB_data/settings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/VTB_data/VTB_data/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/VTB_data/VTB_data/wsgi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/VTB_data/manage.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -25,6 +33,7 @@
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="a266b6c4-88b0-48da-972f-dcf09f62ee7d" name="Changes" comment="" />
+      <changelist id="" name="New changelist" comment="" />
       <created>1633705956273</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
