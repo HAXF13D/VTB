@@ -17,10 +17,10 @@ from django.urls import path
 from . import views
 
 urlpatterns = [
-    path('', views.index),
-    path('about', views.about),
-    path('authorization', views.auth),
-    path('get-started', views.get_started),
-    path('add-dataset', views.add_dataset),
-    path('analyze', views.analyze)
+    path('', views.index, name='home'),
+    path('about', views.about, name='about-project'),
+    path('authorization', views.auth, name='authorize'),
+    path('get-started', views.get_started, name ='begin'),
+    path('add-dataset', views.add_dataset, name='add'),
+    path('analyze', views.analyze, name='analyze-data')
 ]
